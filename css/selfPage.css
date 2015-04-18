@@ -1,0 +1,97 @@
+header{
+	width: 100%;
+	background: #64C5B4;
+	height: 80px;
+	color: white;
+	padding-top: 40px;
+}
+.img{
+	margin-left: 50px;
+	float: left;
+}
+img{
+	width: 60px;
+	height: 60px;
+}
+.info{
+	float: left;
+	line-height: 1.5em;
+	font-weight: normal;
+	margin-left: 5px;
+	font-size: 10px;
+}
+footer{
+	background: #EFEDEE;
+	width: 100%;
+	height: 370px;
+}
+.popular,.rank{
+	width: 49%;
+	height: 80px;
+	float: left;
+	text-align: center;
+	font-weight: normal;
+	padding-top: 30px;
+	color: #64C5B4;
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.popular{
+	border-right: 2px solid #aaaaaa;
+}
+h1{
+	font-size: 40px;
+
+}
+h4{
+	font-size: 20px;
+}
+button{
+	border: none;
+	cursor: pointer;
+}
+.success{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	background: #9AD8CD;
+	padding-top: 6px;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+.block{
+	width: 60%;
+	clear: both;
+	margin: 0 auto 0;
+	padding-top: 20px;
+}
+.list,.share{
+	width: 100%;
+	clear: both;
+	height: 60px;
+	margin: 0 auto 0;
+}
+.block img{
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-bottom: 10px;
+}
+.list,.share{
+	border-radius: 6px;
+}
+.block h2{
+	float: left;
+	margin-top: 20px;
+	margin-left: 4px;
+	font-size: 18px;
+}
+.block a{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,82 @@
+.content{
+	width: 100%;
+	margin: 0 auto 0;
+	background: #f1f1f1;
+	padding-top: 20px;
+}
+.music{
+	width: 80%;
+	background: white;
+	margin: 0 auto 0;
+	border:1px solid #DEDEDE;
+	padding-left: 10px;
+
+}
+.luyin{
+	border-right: 2px solid #DEDEDE;
+	width: 15%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.luyin img{
+	margin-top: 5px;
+}
+.information{
+	color:black;
+	width: 80%;
+	background: white;
+	margin: 20px auto 0;
+	border: 1px solid #DEDEDE;
+
+}
+.name,.song,.phone,.briefInfor{
+	margin: 10px 20px 0;
+	border-bottom: 2px solid #DEDEDE;
+	line-height: 2.5em;
+	font-size: 18px;
+}
+.briefInfor{
+	border-style: none;
+	padding-bottom: 30px;
+}
+input{
+	width: 100px;
+	border: none;
+	height: 20px;
+	margin-left: 5px;
+
+}
+
+
+.fiveBtn,.sixBtn{
+	width: 80%;
+	height: 50px;	
+	border:none;
+	border-radius: 6px;
+	background:#388C7F; 
+	margin-top: 20px;
+	color: white;
+	
+}
+.Btn{
+	width: 100%;
+	clear: both;
+	height: 160px;
+	text-align: center;
+}
+
+.Btn button img{
+	float:left;
+	margin-left: 20px;
+}
+.sha{
+	width: 200px;
+	height: 40px;
+	margin-top: 5px;
+}
+
+.Btn a{
+	text-decoration: none;
+	color: white;
+}

@@ -1,0 +1,47 @@
+.top{
+	background: #44BCA1;
+	color: white;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	font-size: 36px;
+	padding-top: 5px;
+	font-weight: bold;		
+}
+.one{
+	width: 100%;
+	height: 60px;
+	border-bottom: 1px solid black;
+	padding-top: 5px;
+}
+.one img{
+	float: left;
+	margin-left: 6px;
+	width: 50px;
+	height: 50px;
+	margin-top: 4px;
+}
+.one h1{
+	margin-left: 10px;
+	margin-top: 10px;
+	color: #46BAA5;
+	float: left;
+}
+.briefInfo p{
+	margin-top: 8px;
+
+}
+.briefInfo{
+	float: left;
+	margin-left: 10px;
+}
+.bold{
+	font-weight: bold;
+}
+.one a{
+	text-decoration: none;
+	color: blue;
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+}
