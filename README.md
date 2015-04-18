@@ -17,6 +17,7 @@
     
 '<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport">
 '
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport">
 
 加入了之后用chrome打开移动端调试，选择iPhone5，感觉很好的解决了网页在小屏幕无法看的问题。
 
